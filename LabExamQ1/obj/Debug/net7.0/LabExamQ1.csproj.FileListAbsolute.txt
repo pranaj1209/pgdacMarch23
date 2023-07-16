@@ -1,0 +1,15 @@
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\bin\Debug\net7.0\LabExamQ1.exe
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\bin\Debug\net7.0\LabExamQ1.deps.json
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\bin\Debug\net7.0\LabExamQ1.runtimeconfig.json
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\bin\Debug\net7.0\LabExamQ1.dll
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\bin\Debug\net7.0\LabExamQ1.pdb
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\obj\Debug\net7.0\LabExamQ1.csproj.AssemblyReference.cache
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\obj\Debug\net7.0\LabExamQ1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\obj\Debug\net7.0\LabExamQ1.AssemblyInfoInputs.cache
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\obj\Debug\net7.0\LabExamQ1.AssemblyInfo.cs
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\obj\Debug\net7.0\LabExamQ1.csproj.CoreCompileInputs.cache
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\obj\Debug\net7.0\LabExamQ1.dll
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\obj\Debug\net7.0\refint\LabExamQ1.dll
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\obj\Debug\net7.0\LabExamQ1.pdb
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\obj\Debug\net7.0\LabExamQ1.genruntimeconfig.cache
+D:\C-DAC_TVM\MS DOTNET\Programs\WEBPAGES\LabExamQ1\obj\Debug\net7.0\ref\LabExamQ1.dll
